@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-tdd",
+  "version": "1.0.0",
+  "description": "Project nodejs with TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersoonluan/nodejs-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "nodejs",
+    "tdd",
+    "library"
+  ],
+  "author": "Anderson Rodrigues <andersoonluan@gmail.com> (https://www.linkedin.com/in/andersoonrodrigues)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andersoonluan/nodejs-tdd/issues"
+  },
+  "homepage": "https://github.com/andersoonluan/nodejs-tdd#readme"
+}
